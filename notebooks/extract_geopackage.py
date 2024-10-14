@@ -2,7 +2,7 @@ import os
 from urllib.request import urlretrieve
 
 # Use raw string for the file path to avoid issues with backslashes
-output_relative_dir = "D:\STUDYfile\\ads2\\111ads\project-2-group-real-estate-industry-project-35\data\\raw\external"
+output_relative_dir = "../data/raw/external"
 URL_TEMPLATE = 'https://www.abs.gov.au/census/find-census-data/geopackages/download/Geopackage_2021_G01_VIC_GDA2020.zip'
 url = f'{URL_TEMPLATE}'
 
