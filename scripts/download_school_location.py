@@ -1,6 +1,6 @@
 import os
 from urllib.request import urlretrieve
-output_relative_dir = f'D:\STUDYfile\\ads2\\111ads\project-2-group-real-estate-industry-project-35\data\\raw\external'
+output_relative_dir = f'../data/raw/external'
 URL_TEMPLATE = 'https://www.education.vic.gov.au/Documents/about/research/datavic/dv346-schoollocations2023.csv'
 url = f'{URL_TEMPLATE}'
 output_dir = f"{output_relative_dir}"
