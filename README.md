@@ -12,7 +12,7 @@ Student ID: `1266168`
 
 **Timeline:** WEEK 6 - WEEK 10, and WEEK 11 & 12 for presentation.
 
-**Data:** Data files are stored in the `data` folder in `.csv`,`.xlsx`,`.gpkg` and `.XML` formats.
+**Data:** Data files are stored in the `data` folder in `.csv`, `.xlsx`, `.gpkg` and `.XML` formats.
 
 Internal data: 
 paths, Parking, beds from *www.domain.com.au*. 
