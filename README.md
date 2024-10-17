@@ -1,5 +1,5 @@
 # MAST30034 Project 2 README.md
-Name: `LIJIALAN WANG`
+Name: `Lijialan Wang`
 Student ID: `1195112`
 
 Name: `Jiani Ji`
