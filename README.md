@@ -1,10 +1,13 @@
 # MAST30034 Project 2 README.md
 Name: `LIJIALAN WANG`
 Student ID: `1195112`
+
 Name: `Jiani Ji`
 Student ID: `1266536`
+
 Name: `Lingyi Feng`
 Student ID: `1086464`
+
 Name: `Yanbin Hong`
 Student ID: `1266168`
 
